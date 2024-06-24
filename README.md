@@ -1,5 +1,14 @@
-# Glypheosubtitles
+# Glypheosurtitles
 The program helps you to divide your play into chunks with 100 characters or less. You will have a .txt output file that you will have to check manually, but it always will take you less time than separate the text into chunks by hand.
+
+# 1. Importing a Surtitle Track from a File
+
+1. Open Glypheo and navigate to the project where you want to add the surtitle track.
+2. Click on the “Surtitle" menu in the top-left corner.
+3. Select "Import" from the dropdown menu.
+4. Choose “Import “track from file” from the import options.
+5. In the finder, locate and select your surtitle .txt file.
+6. Click "Open" to import the surtitle track into your project.
 
 # For separation with Keywords
 
